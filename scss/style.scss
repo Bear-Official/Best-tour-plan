@@ -1,0 +1,24 @@
+// Settings for site  
+@import 'settings.scss';
+// Settings for variables  
+@import 'blocks/variables.scss';
+//  Site Header 
+@import 'blocks/_header.scss';
+//  For styles modifed 
+@import 'normalize.scss';
+// For adaptive 
+@import '_media.scss';
+//  For top section
+@import '_breadcrumb.scss';
+// Hotel section 
+@import '_hotel.scss';
+// Newslatter section
+@import 'blocks/newslatter';
+// Styles for reviews 
+@import 'blocks/_reviews.scss';
+// Style for activities 
+@import '_activities.scss';
+// Styles for footer 
+@import'_footer.scss';
+// Styles for modal window 
+@import 'blocks/_modal.scss'; 
